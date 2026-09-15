@@ -1,0 +1,14 @@
+INDUSTRIAL MACHINE MONITORING REPORT
+========================================
+
+Average temperature: 71.40°C
+Average vibration: 5.68 mm/s
+Average pressure: 92.60 bar
+
+MACHINE STATUS
+----------------------------------------
+Machine A: 100/100 - HEALTHY
+Machine B: 35/100 - CRITICAL
+Machine C: 70/100 - WARNING
+Machine D: 85/100 - HEALTHY
+Machine E: 100/100 - HEALTHY
