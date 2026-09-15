@@ -1,0 +1,1 @@
+print("Industrial Machine Monitor")
