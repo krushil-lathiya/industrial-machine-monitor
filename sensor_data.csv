@@ -1,0 +1,6 @@
+machine,temperature,vibration,pressure
+Machine A,65,4.5,80
+Machine B,75,9.2,105
+Machine C,85,6.0,95
+Machine D,72,5.5,98
+Machine E,60,3.2,85
